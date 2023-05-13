@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.11294083.css",
-    "main.js": "/static/js/main.437137db.js",
-    "index.html": "/index.html",
-    "main.11294083.css.map": "/static/css/main.11294083.css.map",
-    "main.437137db.js.map": "/static/js/main.437137db.js.map"
+    "main.css": "/DFS-Histopathology-Project2023/static/css/main.11294083.css",
+    "main.js": "/DFS-Histopathology-Project2023/static/js/main.437137db.js",
+    "index.html": "/DFS-Histopathology-Project2023/index.html",
+    "main.11294083.css.map": "/DFS-Histopathology-Project2023/static/css/main.11294083.css.map",
+    "main.437137db.js.map": "/DFS-Histopathology-Project2023/static/js/main.437137db.js.map"
   },
   "entrypoints": [
     "static/css/main.11294083.css",
